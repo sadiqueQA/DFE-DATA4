@@ -1,2 +1,3 @@
 # DFE-DATA4
-This is where the description goes. Make sure it is descriptive and not just something facetious
+
+This is the repository for code and files for DFEDATA4 bootcamp
